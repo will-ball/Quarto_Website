@@ -1,0 +1,85 @@
+# website settings
+website:
+  title: "Dr William P Ball"                                # Your name
+  description: "Social Epidemiologist and Population Health Researcher"   # A brief slogan (optional)
+  image: img/my_image.jpg
+  site-url: "https://wpball.com"
+  
+  twitter-card:
+    creator: "@WillBall12"
+    site: "@WillBall12"
+  
+  open-graph:
+    locale: en_UK
+  
+  cookie-consent: 
+    type: express
+  
+  google-analytics:
+    tracking-id: "UA-165482419-1" 
+    anonymize-ip: true
+    
+  
+  favicon: img/icon.png
+  
+  # start of the navigation bar at the top of the website
+  navbar:
+    pinned: true
+    
+    # your sub-pages
+    left:
+      - text: "Projects"
+        href: projects/index.qmd
+      - text: "Posts"
+        href: posts/index.qmd
+    
+    # your social media handles
+    right:
+      - icon: twitter
+        href: https://twitter.com/WillBall12
+      - icon: mastodon
+        href: https://mastodon.scot/@willball12
+      - icon: envelope
+        aria-label: email
+        href: "mailto:william.ball@abdn.ac.uk"
+      - icon: rss
+        href: index.xml
+  
+
+  search: 
+    location: navbar
+    type: textbox
+  page-footer: 
+    left: |
+      <span class="faux-block">&#169; 2023 William Ball</span>
+      <span class="faux-block">All content licensed under [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>
+    center: |
+      <span class="faux-block">Made using Quarto with a template by [Marvin Schmitt](https://www.marvinschmitt.com/blog/website-tutorial-quarto/)</span>
+    right: |
+      <span class="faux-block"><a href="https://github.com/will-ball/Quarto_Website">View source</a> on GitHub</span>
+
+project:
+  type: website
+  output-dir: _site
+
+  preview: 
+    port: 22222
+    browser: true
+    watch-inputs: true
+    navigate: true
+
+execute:
+  freeze: true
+
+format:
+  html:
+    fontsize: 1.1em
+    theme: 
+      - pulse
+      - html/styles.scss
+    toc: false
+    code-link: true
+    anchor-sections: true
+    fig-cap-location: margin
+    reference-location: margin
+    footnotes-hover: true

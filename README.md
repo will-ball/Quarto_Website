@@ -1,2 +1,1 @@
-# Quarto_Website
-A new personal website written in R using quarto
+# This is the personal website for W P Ball

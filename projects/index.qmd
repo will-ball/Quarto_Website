@@ -1,0 +1,48 @@
+---
+title: Projects
+
+---
+
+## Scottish Index of Multiple Deprivation Domain Explorer
+
+The Scottish Index of Multiple Deprivation is a measure of material deprivation for small areas (data zones) containing roughly 500-1000 individuals. It is produced by the Scottish Government to help identify areas with reduced access to opportunities and resources. The measure is made up of multiple 'domains' of deprivation which are weighted to give an overall score. The scores are then used to rank areas and finally to produce deciles or quintiles.
+
+::: {.column-margin}
+![](simd domains.jpg)
+:::
+
+I've used the area ranks for the different domains to build this shiny app which explores how the domains compare with one another.
+
+<a href="https://willball.shinyapps.io/simd_domain_explorer/" target="_blank">Domain Explorer Shiny App</a>
+
+----
+
+## How did COVID-19 influence CAMHS referrals in 2020?
+
+The Scottish Government publishes waiting list and referrals data for Child and Adolescent Mental Health Services (CAMHS). These are usually for specialist outpatient clinics provided to children with severe or long-standing mental health or neuro-developmental disorders.
+
+::: {.column-margin}
+![](camhs open data.jpg)
+:::
+
+I've compared referrals in 2020 compared with 2013-2019 and produced some visualisations of these trends.
+
+<a href="https://will-ball.github.io/CAMHS/" target="_blank">CAMHS Open Data Analysis</a>
+
+----
+
+## Infant mortality inequalities visualised
+
+In 2019 I created this interactive visualisation which was shortlisted for the NHS Visual Data Challenge prize. It plots inequalities in infant mortality rates in England over time, creating a 3-Dimensional 'lexis surface'. I've rendered the 3D shape in a shiny app which allows you to rotate and explore the shape.
+
+::: {.column-margin}
+![](infant mortality.jpg)
+:::
+
+The 'ribbon' of inequality illustrates the divide between people living in the most deprived areas and those in the least deprived. The infant mortality rate in IMD group 1 (the 10% most deprived areas) has remained stubbornly high, despite a downward trend in the most affluent areas.
+
+<a href="https://willball.shinyapps.io/InfMortExp/" target="_blank">Infant Mortality Explorer Shiny App</a>
+
+----
+
+More coming soon..
