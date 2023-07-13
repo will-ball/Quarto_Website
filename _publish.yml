@@ -1,0 +1,4 @@
+- source: project
+  netlify:
+    - id: 666bf927-e9a0-415a-9fc6-0798e1231660
+      url: 'https://glowing-dango-0e1ba8.netlify.app'
