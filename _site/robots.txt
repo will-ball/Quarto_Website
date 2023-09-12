@@ -1,1 +1,1 @@
-Sitemap: https://glowing-dango-0e1ba8.netlify.app/sitemap.xml
+Sitemap: https://wpball.com/sitemap.xml

@@ -15,7 +15,7 @@ about:
       href: https://mastodon.scot/@willball12
     - icon: envelope
       text: Email
-      href: "mailto:william.ball@abdn.ac.uk"  
+      href: "mailto:w.ball@rgu.ac.uk"  
 ---
 
 ::: {#about-block}
@@ -23,6 +23,8 @@ about:
 
 # Welcome to my website!
 
-I'm a Research Fellow at the University of Aberdeen, working on the Networked Data Lab grant. We use health records and other linked data to address local and national issues related to health and inequalities. In the past we've looked at the construction of shielding lists during the COVID-19 pandemic and inequalities in children's mental health.
+I'm a Chancellor's Fellow at Robert Gordon University in Aberdeen, Scotland. I'm a Social Epidemiologist and a Registered Nurse by background.
 
-My research interests include health inequalities, social epidemiology and causal inference methods. I conduct quantitative research on health records and linked administrative data.
+I conduct research which aims to better understand how health inequalities are constructed and ways that we can reduce them. I use observational linked health and social data and apply counterfactual causal inference methods.
+
+<a rel="me" href="https://mastodon.scot/@willball12"></a>
