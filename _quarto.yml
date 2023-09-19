@@ -41,7 +41,7 @@ website:
         href: https://mastodon.scot/@willball12
       - icon: envelope
         aria-label: email
-        href: "mailto:william.ball@abdn.ac.uk"
+        href: "mailto:w.ball@rgu.ac.uk"
       - icon: rss
         href: index.xml
   
@@ -54,7 +54,7 @@ website:
       <span class="faux-block">&#169; 2023 William Ball</span>
       <span class="faux-block">All content licensed under [Creative Commons CC BY-SA 4.0](https://creativecommons.org/licenses/by-sa/4.0/)</span>
     center: |
-      <span class="faux-block">Made using Quarto with a template by [Marvin Schmitt](https://www.marvinschmitt.com/blog/website-tutorial-quarto/)</span>
+      <span class="faux-block">Made using Quarto</span>
     right: |
       <span class="faux-block"><a href="https://github.com/will-ball/Quarto_Website">View source</a> on GitHub</span>
 

@@ -23,7 +23,7 @@ about:
 
 # Welcome to my website!
 
-I'm a Chancellor's Fellow at Robert Gordon University in Aberdeen, Scotland. I'm a Social Epidemiologist and a Registered Nurse by background.
+I'm a [Chancellor's Fellow](https://rgu-repository.worktribe.com/person/2005477/william-ball) at Robert Gordon University in Aberdeen, Scotland. I'm a Social Epidemiologist and a Registered Nurse by background.
 
 I conduct research which aims to better understand how health inequalities are constructed and ways that we can reduce them. I use observational linked health and social data and apply counterfactual causal inference methods.
 
