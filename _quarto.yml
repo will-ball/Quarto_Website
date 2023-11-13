@@ -32,11 +32,13 @@ website:
         href: projects/index.qmd
       - text: "Posts"
         href: posts/index.qmd
+      - text: "Publications"
+        href: https://scholar.google.com/citations?user=dHECb4wAAAAJ&hl=en
     
     # your social media handles
     right:
-      - icon: twitter
-        href: https://twitter.com/WillBall12
+      - icon: clouds
+        href: https://bsky.app/profile/wpball.bsky.social
       - icon: mastodon
         href: https://mastodon.scot/@willball12
       - icon: envelope
