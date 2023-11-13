@@ -1,0 +1,28 @@
+---
+title: "Just Talk - World Mental Health Day 2023"
+author: "William P Ball"
+date: "2023-10-10"
+description: "Let's have a conversation about mental health today, but make it about health equity"
+bibliography: references.bib
+categories:
+  - Health Inequality
+  - Mental Health
+---
+
+![](featured.jpg)
+
+**"Mental Health is a universal human right" - so why are we thinking only at the individual level?**
+
+Today is [World Mental Health Day](https://www.who.int/campaigns/world-mental-health-day/2023), an initiative set up by the World Health Organisation to 'improve knowledge, raise awareness and drive action.' Today is a day to reflect on the growing burden of poor mental health, where 1 in every 8 UK children has at least one mental health disorder [@newlove-delgado_mental_2021] and that this prevalence is increasing over time.
+
+Mental health in childhood is particularly important. We know that half of all long-term mental health disorders start by age 14, and three-quarters by age 24 [@kessler_lifetime_2007]. We also know that many young people in need of help either don't seek out or don't receive professional support [@radez_why_2021]. The headline figures are worrying in themselves, but they obscure the fact that poor mental health hits certain types of people harder than others.
+
+Naturally, many organisations are using today as an opportunity to promote better mental health practices. One such initiative calls on children to ['do your homework'](https://www.itv.com/britaingettalking/schools.html) and talk to someone. Whilst talking to someone about your worries or stresses can be a good first step for many, focusing on actions that require individual agency doesn't begin to scratch the surface of this problem.
+
+Older children, girls and children living in the most deprived areas are all more likely to experience poor mental health [@barr_trends_2015, @gould_mental_2006]. This is reflected is patterns of mental health prescribing and referrals to specialist outpatient Child and Adolescent Mental Health Services (CAMHS) [@ball_inequalities_2022], where children in the most deprived areas have rates that are twice as high as those in the least deprived areas @fig-1.
+
+![A chart showing that rates of referral to outpatient CAMHS are higher in the most deprived areas](refs_simd.png){#fig-1}
+
+Of course, we need services that can cater to the people who are most in need of help, but equally we should recognise, discuss and act on the structural issues. The temptation to focus on individual actions is strong, because structural issues can seem like an inevitability and out of our control. The truth is that more and more young people are experiencing the negative effects of poverty on their mental well-being & exposures now will influence outcomes throughout their lives. We need to think bigger than what an individual can do for themselves, and more about the ways we want our social and economic systems to function in order to promote good mental health.
+
+**Reducing poverty and inequalities will have a much bigger long-term impact on mental health in our society than well-intentioned calls to 'talk to someone' ever can. We need to look beyond individualised solutions to systematic problems.**
