@@ -41,7 +41,7 @@ In 2019 I created this interactive visualisation which was shortlisted for the N
 
 The 'ribbon' of inequality illustrates the divide between people living in the most deprived areas and those in the least deprived. The infant mortality rate in IMD group 1 (the 10% most deprived areas) has remained stubbornly high, despite a downward trend in the most affluent areas.
 
-<a href="https://willball.shinyapps.io/InfMortExp/" target="_blank">Infant Mortality Explorer Shiny App</a>
+<a href="https://willball.shinyapps.io/infant_mortality_explorer/" target="_blank">Infant Mortality Explorer Shiny App</a>
 
 ----
 
